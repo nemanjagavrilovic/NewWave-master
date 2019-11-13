@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CustomTask",
+	"category" : "NewWave-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ScheduledWaveTask",
+	"type" : "normal"
+}

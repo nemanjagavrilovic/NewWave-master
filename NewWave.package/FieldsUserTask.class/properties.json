@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FieldUserTask",
+	"category" : "NewWave-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FieldsUserTask",
+	"type" : "normal"
+}

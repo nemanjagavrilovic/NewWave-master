@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"behaviors"
+	],
+	"name" : "BehaviorHandler",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseTask",
+	"category" : "NewWave-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dialog"
+	],
+	"name" : "DialogTask",
+	"type" : "normal"
+}

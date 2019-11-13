@@ -1,0 +1,3 @@
+initialization
+formProperties
+	^ formProperties

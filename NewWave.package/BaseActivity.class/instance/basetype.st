@@ -1,0 +1,3 @@
+initialization
+basetype
+	^ #Activity

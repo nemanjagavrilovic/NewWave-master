@@ -1,0 +1,3 @@
+accessing
+structureRef
+	^ structureRef

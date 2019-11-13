@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Element",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"type",
+		"variable",
+		"formValues",
+		"label"
+	],
+	"name" : "FormProperty",
+	"type" : "normal"
+}

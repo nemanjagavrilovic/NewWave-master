@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleElement",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"columnLabel",
+		"displayFormat",
+		"representative",
+		"autoGo",
+		"disabled",
+		"default"
+	],
+	"name" : "VisibleProperty",
+	"type" : "normal"
+}

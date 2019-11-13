@@ -1,0 +1,3 @@
+initialization
+txtName
+	^ txtName

@@ -1,0 +1,3 @@
+finalization
+previousNode
+	^ previousNode  

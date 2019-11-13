@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"workerid",
+		"currSeq",
+		"sequences"
+	],
+	"name" : "FlowHandler",
+	"type" : "normal"
+}

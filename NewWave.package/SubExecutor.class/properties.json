@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"executor",
+		"engine",
+		"previousNode"
+	],
+	"name" : "SubExecutor",
+	"type" : "normal"
+}

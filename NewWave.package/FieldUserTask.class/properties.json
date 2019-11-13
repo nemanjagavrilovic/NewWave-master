@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseActivity",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"announcer",
+		"result",
+		"formProperties",
+		"name"
+	],
+	"name" : "FieldUserTask",
+	"type" : "normal"
+}

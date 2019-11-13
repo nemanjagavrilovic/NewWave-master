@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleClass",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persistentClass"
+	],
+	"name" : "StandardPanel",
+	"type" : "normal"
+}

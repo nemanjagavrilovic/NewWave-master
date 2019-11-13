@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Gateway",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Inclusive",
+	"type" : "normal"
+}

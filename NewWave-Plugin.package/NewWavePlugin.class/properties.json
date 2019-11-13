@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Plugin",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"port",
+		"teapot"
+	],
+	"name" : "NewWavePlugin",
+	"type" : "normal"
+}

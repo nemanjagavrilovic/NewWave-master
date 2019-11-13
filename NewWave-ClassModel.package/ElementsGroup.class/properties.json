@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleElement",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"superElement",
+		"subElements",
+		"visibleElements"
+	],
+	"name" : "ElementsGroup",
+	"type" : "normal"
+}

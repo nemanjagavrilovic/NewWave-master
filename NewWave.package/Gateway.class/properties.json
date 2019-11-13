@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Node",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"element"
+	],
+	"name" : "Gateway",
+	"type" : "normal"
+}

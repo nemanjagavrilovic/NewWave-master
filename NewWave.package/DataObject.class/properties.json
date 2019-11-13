@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TItemAwareElementTrait classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"itemDef"
+	],
+	"name" : "DataObject",
+	"commentStamp" : "",
+	"super" : "Element",
+	"traitcomposition" : "TItemAwareElementTrait",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "NewWave-Core"
+}

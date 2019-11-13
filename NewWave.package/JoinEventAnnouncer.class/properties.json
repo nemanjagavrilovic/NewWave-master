@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "NewWave-Announcers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameter",
+		"executor"
+	],
+	"name" : "JoinEventAnnouncer",
+	"type" : "normal"
+}

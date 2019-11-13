@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseTask",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"script"
+	],
+	"name" : "ScriptTask",
+	"type" : "normal"
+}

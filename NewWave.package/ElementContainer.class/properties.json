@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Element",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elements",
+		"sequenceFlows"
+	],
+	"name" : "ElementContainer",
+	"type" : "normal"
+}

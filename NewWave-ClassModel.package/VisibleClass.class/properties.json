@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleElement",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"visibleClassName",
+		"modal",
+		"visibleElements"
+	],
+	"name" : "VisibleClass",
+	"type" : "normal"
+}

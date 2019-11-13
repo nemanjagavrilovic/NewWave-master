@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Node",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elements",
+		"boundaryEvents",
+		"dataOutputAssociations",
+		"assigne"
+	],
+	"name" : "BaseActivity",
+	"type" : "normal"
+}

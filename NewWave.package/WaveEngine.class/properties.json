@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mainExecutor",
+		"joinHandler",
+		"subExecutors",
+		"engineAnnouncer",
+		"workList",
+		"activations",
+		"scheduler",
+		"process",
+		"pluginData"
+	],
+	"name" : "WaveEngine",
+	"type" : "normal"
+}

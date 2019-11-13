@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Element",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"itemKind",
+		"structureRef",
+		"isCollection"
+	],
+	"name" : "ItemDefinition",
+	"type" : "normal"
+}

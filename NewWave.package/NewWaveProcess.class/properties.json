@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Element",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"dataObjects",
+		"flowElementList",
+		"initialFlowElement"
+	],
+	"name" : "NewWaveProcess",
+	"type" : "normal"
+}

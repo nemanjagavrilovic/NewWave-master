@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-ObjectPreparator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"varName",
+		"varType",
+		"varValue",
+		"maDescription"
+	],
+	"name" : "NewWaveDOPropertyDescription",
+	"type" : "normal"
+}

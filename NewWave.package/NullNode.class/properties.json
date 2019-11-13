@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Node",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NullNode",
+	"type" : "normal"
+}

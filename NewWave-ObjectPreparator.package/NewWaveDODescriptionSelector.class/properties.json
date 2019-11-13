@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-ObjectPreparator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"descriptionDictionary"
+	],
+	"name" : "NewWaveDODescriptionSelector",
+	"type" : "normal"
+}

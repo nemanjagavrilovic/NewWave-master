@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "NewWave-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"waveExecutor"
+	],
+	"name" : "WaveExecutorActivationTest",
+	"type" : "normal"
+}

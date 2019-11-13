@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"waveAnnouncer",
+		"taskResult",
+		"flowHandler",
+		"workers",
+		"engine"
+	],
+	"name" : "WaveExecutor",
+	"type" : "normal"
+}

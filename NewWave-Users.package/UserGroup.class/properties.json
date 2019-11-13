@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Users",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"users",
+		"name"
+	],
+	"name" : "UserGroup",
+	"type" : "normal"
+}

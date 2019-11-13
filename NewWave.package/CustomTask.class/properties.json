@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseActivity",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"announcer",
+		"result"
+	],
+	"name" : "CustomTask",
+	"type" : "normal"
+}

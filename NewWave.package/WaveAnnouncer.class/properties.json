@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "NewWave-Announcers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameter"
+	],
+	"name" : "WaveAnnouncer",
+	"type" : "normal"
+}

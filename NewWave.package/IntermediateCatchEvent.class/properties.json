@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Event",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IntermediateCatchEvent",
+	"type" : "normal"
+}

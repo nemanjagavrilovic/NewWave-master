@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleProperty",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dentifier",
+		"unique",
+		"identity",
+		"nullable",
+		"mandatory"
+	],
+	"name" : "PersistentProperty",
+	"type" : "normal"
+}

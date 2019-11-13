@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Event",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attachedToRef",
+		"attechedToRefId",
+		"cancelActivity"
+	],
+	"name" : "BoundaryEvent",
+	"type" : "normal"
+}

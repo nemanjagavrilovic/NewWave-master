@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "EventDefinition",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeDate",
+		"repeat",
+		"every"
+	],
+	"name" : "TimerTempDefinition",
+	"type" : "normal"
+}

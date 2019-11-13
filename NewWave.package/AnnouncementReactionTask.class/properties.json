@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CustomTask",
+	"category" : "NewWave-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AnnouncementReactionTask",
+	"type" : "normal"
+}

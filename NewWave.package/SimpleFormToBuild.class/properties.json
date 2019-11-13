@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenterWithModel",
+	"category" : "NewWave-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lblName",
+		"lblLastName",
+		"txtName",
+		"txtLastName"
+	],
+	"name" : "SimpleFormToBuild",
+	"type" : "normal"
+}

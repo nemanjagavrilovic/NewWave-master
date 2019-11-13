@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleAssociationEnd",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Next",
+	"type" : "normal"
+}

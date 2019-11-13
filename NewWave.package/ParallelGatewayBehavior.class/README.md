@@ -1,0 +1,1 @@
+I am a class that splits the execution into two or more processes.

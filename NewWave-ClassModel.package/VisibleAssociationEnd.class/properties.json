@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "VisibleElement",
+	"category" : "NewWave-ClassModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"activationPanel",
+		"targetPanel"
+	],
+	"name" : "VisibleAssociationEnd",
+	"type" : "normal"
+}

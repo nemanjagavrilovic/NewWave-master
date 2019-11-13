@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Element",
+	"category" : "NewWave-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"incoming",
+		"outgoing",
+		"sourceRef",
+		"targetRef",
+		"srcFetched",
+		"targetFetched",
+		"condition"
+	],
+	"name" : "Sequence",
+	"type" : "normal"
+}

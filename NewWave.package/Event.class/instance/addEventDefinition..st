@@ -1,0 +1,3 @@
+testing
+addEventDefinition: anEventDefinition
+	eventDefinitions add: anEventDefinition

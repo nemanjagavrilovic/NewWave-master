@@ -1,0 +1,1 @@
+I am a class that starts the execution. When the new announcment is sent execution will be started.

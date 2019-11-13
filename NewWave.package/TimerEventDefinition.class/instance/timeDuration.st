@@ -1,0 +1,3 @@
+accessing
+timeDuration
+	^ timeDuration
